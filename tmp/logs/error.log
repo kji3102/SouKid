@@ -1,0 +1,185 @@
+2017-06-08 21:26:46 Error: [MissingControllerException] Controller class PostsController could not be found.
+Exception Attributes: array (
+  'class' => 'PostsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.x/posts
+Stack Trace:
+#0 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-06-08 21:32:14 Error: [MissingControllerException] Controller class PostsController could not be found.
+Exception Attributes: array (
+  'class' => 'PostsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.x/posts
+Stack Trace:
+#0 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-06-08 21:32:18 Error: [MissingControllerException] Controller class PostsController could not be found.
+Exception Attributes: array (
+  'class' => 'PostsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.x/posts/add
+Stack Trace:
+#0 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-06-08 21:32:22 Error: [MissingControllerException] Controller class PostsController could not be found.
+Exception Attributes: array (
+  'class' => 'PostsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.x/posts/add
+Stack Trace:
+#0 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-06-08 21:37:11 Error: [MissingControllerException] Controller class PostsController could not be found.
+Exception Attributes: array (
+  'class' => 'PostsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.x/posts/add
+Stack Trace:
+#0 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-06-08 21:38:11 Error: [ParseError] syntax error, unexpected ')'
+Request URL: /cakephp-2.x/posts
+Stack Trace:
+#0 [internal function]: App::load('PostsController')
+#1 [internal function]: spl_autoload_call('PostsController')
+#2 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\lib\Cake\Routing\Dispatcher.php(266): class_exists('PostsController')
+#3 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\lib\Cake\Routing\Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\lib\Cake\Routing\Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2017-06-08 21:38:34 Error: [ParseError] syntax error, unexpected ')'
+Request URL: /cakephp-2.x/posts/add
+Stack Trace:
+#0 [internal function]: App::load('PostsController')
+#1 [internal function]: spl_autoload_call('PostsController')
+#2 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\lib\Cake\Routing\Dispatcher.php(266): class_exists('PostsController')
+#3 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\lib\Cake\Routing\Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\lib\Cake\Routing\Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2017-06-08 21:38:42 Error: [ParseError] syntax error, unexpected ')'
+Request URL: /cakephp-2.x/posts/view
+Stack Trace:
+#0 [internal function]: App::load('PostsController')
+#1 [internal function]: spl_autoload_call('PostsController')
+#2 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\lib\Cake\Routing\Dispatcher.php(266): class_exists('PostsController')
+#3 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\lib\Cake\Routing\Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\lib\Cake\Routing\Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2017-06-08 21:44:31 Error: [ParseError] syntax error, unexpected ')'
+Request URL: /cakephp-2.x/posts/add
+Stack Trace:
+#0 [internal function]: App::load('PostsController')
+#1 [internal function]: spl_autoload_call('PostsController')
+#2 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\lib\Cake\Routing\Dispatcher.php(266): class_exists('PostsController')
+#3 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\lib\Cake\Routing\Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\lib\Cake\Routing\Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2017-06-08 21:44:34 Error: [ParseError] syntax error, unexpected ')'
+Request URL: /cakephp-2.x/posts/
+Stack Trace:
+#0 [internal function]: App::load('PostsController')
+#1 [internal function]: spl_autoload_call('PostsController')
+#2 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\lib\Cake\Routing\Dispatcher.php(266): class_exists('PostsController')
+#3 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\lib\Cake\Routing\Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\lib\Cake\Routing\Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2017-06-08 21:44:38 Error: [ParseError] syntax error, unexpected ')'
+Request URL: /cakephp-2.x/posts/
+Stack Trace:
+#0 [internal function]: App::load('PostsController')
+#1 [internal function]: spl_autoload_call('PostsController')
+#2 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\lib\Cake\Routing\Dispatcher.php(266): class_exists('PostsController')
+#3 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\lib\Cake\Routing\Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\lib\Cake\Routing\Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2017-06-08 21:44:48 Error: [ParseError] syntax error, unexpected ')'
+Request URL: /cakephp-2.x/posts/
+Stack Trace:
+#0 [internal function]: App::load('PostsController')
+#1 [internal function]: spl_autoload_call('PostsController')
+#2 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\lib\Cake\Routing\Dispatcher.php(266): class_exists('PostsController')
+#3 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\lib\Cake\Routing\Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\lib\Cake\Routing\Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2017-06-08 21:45:17 Error: [ParseError] syntax error, unexpected ';', expecting ',' or ')'
+Request URL: /cakephp-2.x/posts/
+Stack Trace:
+#0 [internal function]: App::load('PostsController')
+#1 [internal function]: spl_autoload_call('PostsController')
+#2 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\lib\Cake\Routing\Dispatcher.php(266): class_exists('PostsController')
+#3 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\lib\Cake\Routing\Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\lib\Cake\Routing\Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2017-06-08 21:45:18 Error: [ParseError] syntax error, unexpected ';', expecting ',' or ')'
+Request URL: /cakephp-2.x/posts/
+Stack Trace:
+#0 [internal function]: App::load('PostsController')
+#1 [internal function]: spl_autoload_call('PostsController')
+#2 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\lib\Cake\Routing\Dispatcher.php(266): class_exists('PostsController')
+#3 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\lib\Cake\Routing\Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\lib\Cake\Routing\Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2017-06-08 21:45:26 Error: [ParseError] syntax error, unexpected ')'
+Request URL: /cakephp-2.x/posts/
+Stack Trace:
+#0 [internal function]: App::load('PostsController')
+#1 [internal function]: spl_autoload_call('PostsController')
+#2 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\lib\Cake\Routing\Dispatcher.php(266): class_exists('PostsController')
+#3 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\lib\Cake\Routing\Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\lib\Cake\Routing\Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2017-06-08 21:46:24 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [1045] Access denied for user \'user\'@\'localhost\' (using password: YES)',
+  'enabled' => true,
+)
+Request URL: /cakephp-2.x/posts/
+Stack Trace:
+#0 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\lib\Cake\Model\Datasource\DboSource.php(269): Mysql->connect()
+#1 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\lib\Cake\Model\ConnectionManager.php(105): DboSource->__construct(Array)
+#2 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\lib\Cake\Model\Model.php(3640): ConnectionManager::getDataSource('default')
+#3 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\lib\Cake\Model\Model.php(1162): Model->setDataSource('default')
+#4 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\lib\Cake\Model\Model.php(3667): Model->setSource('posts')
+#5 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\lib\Cake\Model\Model.php(3038): Model->getDataSource()
+#6 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\lib\Cake\Model\Model.php(3010): Model->_readDataSource('all', Array)
+#7 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\app\Controller\PostsController.php(7): Model->find('all')
+#8 [internal function]: PostsController->index()
+#9 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#10 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#11 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#12 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2017-06-08 22:03:07 Error: [ArgumentCountError] Too few arguments to function PostsController::delete(), 0 passed and exactly 1 expected
+Request URL: /cakephp-2.x/posts/delete
+Stack Trace:
+#0 [internal function]: PostsController->delete()
+#1 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-06-08 22:03:16 Error: [ArgumentCountError] Too few arguments to function PostsController::delete(), 0 passed and exactly 1 expected
+Request URL: /cakephp-2.x/posts/delete
+Stack Trace:
+#0 [internal function]: PostsController->delete()
+#1 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 C:\Users\kji31\Desktop\UniServerZ\www\cakephp-2.x\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
